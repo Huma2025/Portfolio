@@ -2,19 +2,19 @@
 Data Science Portfolio
 
 ## WORK EXPERIENCE 
--# Systems Consultant                                                                                
+# Systems Consultant                                                                                
   Long View Systems / Computer Upgrading Specialists, Edmonton, Alberta  
   January 2024 – May 2025
   
--# Technical Support                                                                         
+# Technical Support                                                                         
   Great River Financial / Robert Half, Edmonton, Alberta                                                       
   January 2023 – December 2023 
 
--# Lead Technical Support                                                              
+# Lead Technical Support                                                              
   IBM / TD Bank, Edmonton, Alberta    
   October 2019 – November 2022 
 
--# IT Specialist (Contractor)                                        
+# IT Specialist (Contractor)                                        
   IBM / Air Canada, Edmonton, Alberta  
   February 2018 – February 2019
 
